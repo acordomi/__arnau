@@ -1,0 +1,5 @@
+*/*.py
+*/*.pdf
+*.zip
+*.gdoc
+__pycache__/*
